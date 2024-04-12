@@ -1,8 +1,12 @@
+Quera Data Science Bootcamp - fall 1402
+
+Final Project
+
 Group 6
 
 Mentor: Mr. Ali Abedin
 
-Team member:
+Team Members:
 
 Arash Alaei
 
@@ -15,5 +19,6 @@ Mehrdad Aflakparast
 Mohammad Jafari
 
 
-Git repo:
+Git Repo:
+
 https://github.com/AmirAflak/quera-final
